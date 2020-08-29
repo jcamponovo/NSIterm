@@ -1,12 +1,16 @@
-# NSIterm
+# formation2020
 
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+### Document de formation à Jupyter
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=presentation.ipynb)
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+### Exemple d'environnement
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?urlpath=apps/environnement.ipynb)
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+### Exemple de TP (appli web)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?urlpath=apps/refraction2.ipynb)
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+### Exemple de TP (notebook)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=refraction2.ipynb)
+
+### Exemple de TP (presentation rise)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=refraction2_pres.ipynb)
