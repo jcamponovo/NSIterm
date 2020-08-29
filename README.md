@@ -1,16 +1,10 @@
-# formation2020
+# NSIterm
 
 ### Document de formation à Jupyter
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=presentation.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
 
-### Exemple d'environnement
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?urlpath=apps/environnement.ipynb)
+### Environnement Jupyter
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/environnement.ipynb)
 
-### Exemple de TP (appli web)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?urlpath=apps/refraction2.ipynb)
-
-### Exemple de TP (notebook)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=refraction2.ipynb)
-
-### Exemple de TP (presentation rise)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/formation2020/master?filepath=refraction2_pres.ipynb)
+### Cours 00 - Mise en route
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/cours_00.ipynb)
