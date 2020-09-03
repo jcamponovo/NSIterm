@@ -11,8 +11,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/environnement.ipynb)
 
 ### Cours 00 - Mise en route
-#### Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_00.ipynb)
-#### TD 00_1 - Révision [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_00_1.ipynb)
+* Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_00.ipynb)
+* TD 00_1 - Révision [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_00_1.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
