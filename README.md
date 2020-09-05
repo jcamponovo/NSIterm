@@ -12,7 +12,7 @@
 
 ### Cours 00 - Mise en route
 * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_00.ipynb)
-* TD 00_1 - Révision [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_00_1.ipynb)
+      * TD 00_1 - Révision [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_00_1.ipynb)
 
 ### Cours 01 - Structures de données
 * I. Le tableau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01.ipynb)
