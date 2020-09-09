@@ -20,7 +20,7 @@
     * TD 01_1 - Utilisation de piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_1.ipynb)
 * III. La File [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_2.ipynb)
 * IV. La liste chainée [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_3.ipynb)
-    * TD 01_2 - Autres structures de données [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_2.ipynb)
+    * TD 01_2 - Autres structures de données (partir I corrigée) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_2.ipynb)
     * TD 01_3 - Implémentation de structures de données par programmation orientée objet [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_3.ipynb)
 * V. Le dictionnaire [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_4.ipynb)
 
