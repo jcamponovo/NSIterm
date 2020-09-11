@@ -13,7 +13,7 @@
 ### Chapitre 00 - Mise en route
 * Cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_00.ipynb)
 * TD 00_1 - Les bases de python [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_00_1.ipynb)
-* TP 00 - Le code ISBN d'un livre [!Binder](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/Master?filepath=TP_00.ipynb)
+* TP 00 - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/Master?filepath=TP_00.ipynb)
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
