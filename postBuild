@@ -23,3 +23,4 @@ jupyter bundlerextension enable --py jupyter_docx_bundler --sys-prefix
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
 python3 trust.py
+/bin/bash trust.sh
