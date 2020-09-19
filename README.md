@@ -17,7 +17,7 @@
 ### Cours 01 - Structures de données
 * I. Le tableau [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01.ipynb)
 * II. La Pile [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_1.ipynb)
-    * TD 01_1 - Utilisation de piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_1.ipynb)
+    * TD 01_1 - Utilisation de piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_1.ipynb) et [correction](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_1_cor.ipynb)
 * III. La File [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_2.ipynb)
 * IV. La liste chainée [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=cours_01_3.ipynb)
     * TD 01_2 - Autres structures de données (partir I corrigée) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=TD_01_2.ipynb)
