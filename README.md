@@ -4,10 +4,10 @@
 
 
 
-### Document de formation à Jupyter
+### Document de formation à Jupyter (pour ceux qui veulent leur propre Github)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
 
-### Environnement Jupyter
+### Environnement Jupyter (pour charger vos propres notebook)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?urlpath=apps/environnement.ipynb)
 
 ### Chapitre 00 - Mise en route
