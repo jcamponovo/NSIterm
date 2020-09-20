@@ -18,7 +18,9 @@
 
 ### Chapitre 1 - Représentation des données : types et valeurs de base
 1. Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_intro.ipynb)
-2. Les nombres entiers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_B.ipynb)
+2. Les nombres entiers naturels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_B.ipynb)
+3. Les nombres entiers relatifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_C.ipynb)
+4. Les nombres réels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_D.ipynb)
 
 
 This work is licensed under a
