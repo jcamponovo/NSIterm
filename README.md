@@ -17,6 +17,7 @@
 * TP 00 - Le code ISBN d'un livre [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_00.ipynb)
 
 ### Chapitre 1 - Représentation des données : types et valeurs de base
+Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_intro.ipynb)
 1. Les nombres entiers [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_1.ipynb)
 
 
