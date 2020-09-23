@@ -4,7 +4,7 @@
 
 
 
-### Document de formation à Jupyter (pour ceux qui veulent leur propre Github)
+### Document de formation à Jupyter (pour ceux qui veulent avoir leur propre Github)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
 
 ### Environnement Jupyter (pour charger vos propres notebook)
