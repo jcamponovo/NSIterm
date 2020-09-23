@@ -26,6 +26,7 @@ jupyter trust new.ipynb
 jupyter trust cours_00.ipynb
 jupyter trust TD_00_1.ipynb
 jupyter trust TD_01_1.ipynb
+jupyter trust TD_01_1_correct.ipynb
 jupyter trust TP_00.ipynb
 jupyter trust cours_01_intro.ipynb
 jupyter trust cours_01_B.ipynb
