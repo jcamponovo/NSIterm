@@ -9,34 +9,34 @@
 ### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/environnement.ipynb)
 
 
-### Sommaire [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/sommaire.ipynb)
+### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/sommaire.ipynb)
 
 
 ### Cours 00 - Mise en route
-* [Cours](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_00/cours_00.ipynb)
-     * [TD 00_1 - Révision](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_00/TD_00_1.ipynb)
+* Cours_00
+     * TD 00_1 - Révision
 
 ### Cours 01 - Structures de données
-* [I. Le tableau](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/cours_01_1.ipynb)
-* II. La Pile [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/cours_01_2.ipynb)
-    * TD 01_1 - Utilisation de piles [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/TD_01_1.ipynb) et [correction](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/TD_01_1_cor.ipynb)
-* III. La File [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/cours_01_3.ipynb)
-* IV. La liste chainée [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/cours_01_4.ipynb)
-    * TD 01_2 - Autres structures de données (partir I corrigée) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/TD_01_2.ipynb)
-    * TD 01_3 - Implémentation de structures de données par programmation orientée objet [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/TD_01_3.ipynb)
-* V. Le dictionnaire [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_01/cours_01_5.ipynb)
+* I. Le tableau
+* II. La Pile 
+    * TD 01_1 - Utilisation de piles et correction
+* III. La File 
+* IV. La liste chainée 
+    * TD 01_2 - Autres structures de données (partir I corrigée) 
+    * TD 01_3 - Implémentation de structures de données par programmation orientée objet 
+* V. Le dictionnaire 
 
 ### Cours 02 - Récursivité
-* I. Définition [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_02/cours_02_1.ipynb)
-* II. La Pile d'appel [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_02/cours_02_2.ipynb)
-    * TD 02_1 - Fonctions récursives et fractales [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_02/TD_02_1.ipynb)
-* III. Les limites [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_02/cours_02_3.ipynb)
-    * TD 02_2 - Ecrire des fonctions récursives [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_02/TD_02_2.ipynb)
+* I. Définition 
+* II. La Pile d'appel 
+    * TD 02_1 - Fonctions récursives et fractales 
+* III. Les limites 
+    * TD 02_2 - Ecrire des fonctions récursives 
 
 ### Cours 03 - Cryptographie
-* I. Cesar [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_03/cours_03_1.ipynb)
-* II. Vigenère [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_03/cours_03_2.ipynb)
-* III. Chiffrement à clé publique [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=Cours_03/cours_03_3.ipynb)
+* I. Cesar 
+* II. Vigenère 
+* III. Chiffrement à clé publique 
 
 
 
