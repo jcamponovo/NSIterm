@@ -1,10 +1,13 @@
 import os
 g = open("trust.sh","w")
 g.write("#!/bin/bash\n")
-liste = os.listdir()
-for f in liste:
+fichier=[] 
+for root, dirs, files in os.walk(path): 
+    for i in files: 
+        fichier.append(os.path.join(root, i)) 
+for f in fichier:
     if f[-6:] == ".ipynb":
-        os.popen("jupyter trust {}".format(f))
-        print("jupyter trust {}".format(f))
+        # os.popen("jupyter trust {}".format(f))
+        # print("jupyter trust {}".format(f))
         g.write("jupyter trust {}\n".format(f))
 g.close()
