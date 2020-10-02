@@ -17,7 +17,7 @@ for f in fichier:
     if f[-6:] == ".ipynb":
         # os.popen("jupyter trust {}".format(f))
         # print("jupyter trust {}".format(f))
-        g.write("jupyter trust {}\n".format(f.replace("(","_").replace(")","")))
+        g.write("jupyter trust {}\n".format(f))
 for i in acopier:
     for j in base:
         if not os.path.exists(os.path.join(j,i[1])):
