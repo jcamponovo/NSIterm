@@ -16,7 +16,7 @@ for root, dirs, files in os.walk(os.getcwd()):
 for i in acopier:
     for j in base:
         if not os.path.exists(os.path.join(j,i[1])):
-            fichier.append(os.path(j,i[1]))
+            fichier.append(os.path.join(j,i[1]))
             g.write("cp {} {}\n".format(i[0],os.path.join(j,i[1])))
 for f in fichier:
     if f[-6:] == ".ipynb":
