@@ -23,6 +23,9 @@
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_01_1_correct.ipynb)
 3. Les nombres entiers relatifs [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_C.ipynb)
 4. Les nombres réels [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_D.ipynb)
+5. Les caractères [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_E.ipynb)
+* TP1 - Codage des caractères - Partie 1 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP-Codage des caractères(1).ipynb)
+* TP2 - Codage des caractères - Partie 2 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP-Codage des caractères(2).ipynb)
 
 
 This work is licensed under a
