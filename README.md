@@ -29,6 +29,9 @@
 6. Les booléens [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_01_F.ipynb)
   * TD - Les booléens [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_01_2.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_01_2_correct.ipynb)
+### Chapitre 2 - Représentation des données : types construits
+1. Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_intro.ipynb)
+2. Les n-uplets [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_B.ipynb)
 
 
 This work is licensed under a
