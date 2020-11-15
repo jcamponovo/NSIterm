@@ -32,6 +32,8 @@
 ### Chapitre 2 - Représentation des données : types construits
 1. Introduction [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_intro.ipynb)
 2. Les n-uplets [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_B.ipynb)
+  * TD - Les tuples [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_1.ipynb)
+3. Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_C.ipynb)
 
 
 This work is licensed under a
