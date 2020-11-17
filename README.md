@@ -37,6 +37,7 @@
 3. Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_C.ipynb)
   * TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2_correct.ipynb)
+* Travail maison - [Tuples et listes](https://isn-icn-ljm.pagesperso-orange.fr/1-NSI/res/res_exos_liste_tuples.pdf)
 
 
 This work is licensed under a
