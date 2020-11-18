@@ -4,12 +4,12 @@
 
 
 
-### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?filepath=presentation.ipynb)
+### Document de formation à Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JackyYC/NSIterm/master?filepath=presentation.ipynb)
 
-### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/environnement.ipynb)
+### Environnement Jupyter [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JackyYC/NSIterm/master?urlpath=apps/environnement.ipynb)
 
 
-### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcamponovo/NSIterm/master?urlpath=apps/sommaire.ipynb)
+### Sommaire du cours [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JackyYC/NSIterm/master?urlpath=apps/sommaire.ipynb)
 
 
 ### Cours 00 - Mise en route
