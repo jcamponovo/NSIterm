@@ -40,7 +40,16 @@
     * TD_03_1 - Générer des nombres premiers
     * TD_03_2 - RSA 1/2
     * TD_03_3 - RSA 2/2
+* IV. Quelques idées sur le protocole HTTPS (à venir)
 
+### Cours 04 - Rappels et approfondissements sur les tris
+* I. Tri insertion
+    * TD_04_1 - efficacité d'un tri
+* II. Tri à bulles
+* III. Tri fusion
+* IV. Quicksort (à venir)
+    * TD_04_2 - stratégie diviser pour régner dans les tris (à venir)
+    * TD_04_3 - coût temporel dans différents cas (à venir)
 
 
 This work is licensed under a
