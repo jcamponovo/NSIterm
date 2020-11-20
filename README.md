@@ -38,7 +38,7 @@
   * TD - Les listes [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2.ipynb)
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2_correct.ipynb)
 * Activité - [Tuples et listes](https://isn-icn-ljm.pagesperso-orange.fr/1-NSI/res/res_exos_liste_tuples.pdf)
-* Corrigé de l'activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/master/res_exos_liste_tuples_corrigé.pdf)
+* Corrigé de l'activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/res_exos_liste_tuples_corrigé.pdf)
 
 
 This work is licensed under a
