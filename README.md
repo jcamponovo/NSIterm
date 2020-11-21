@@ -39,6 +39,9 @@
   * Corrigé du TD [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TD_02_2_correct.ipynb)
 * Activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_exos_liste_tuples.pdf)
 * Corrigé de l'activité - [Tuples et listes](https://github.com/JeromeBarthelemy/NSI1ere/blob/master/res_exos_liste_tuples_corrigé.pdf)
+4. Les dictionnaires [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=cours_02_D.ipynb)
+  * TP - Le rang d'un page web [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_02.ipynb)
+  * Corrigé du TP [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JeromeBarthelemy/NSI1ere/master?filepath=TP_02_correct.ipynb)
 
 
 This work is licensed under a
