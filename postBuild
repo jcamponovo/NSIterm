@@ -19,6 +19,7 @@ jupyter nbextension enable --py --sys-prefix ipyvuetify
 jupyter nbextension enable --py --sys-prefix ipyturtle
 jupyter nbextension enable varInspector/main
 jupyter bundlerextension enable --py jupyter_docx_bundler --sys-prefix
+jt -t monokai
 
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
