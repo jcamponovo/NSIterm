@@ -47,9 +47,11 @@
     * TD_04_1 - efficacité d'un tri
 * II. Tri à bulles
 * III. Tri fusion
-* IV. Quicksort (à venir)
-    * TD_04_2 - stratégie diviser pour régner dans les tris (à venir)
-    * TD_04_3 - coût temporel dans différents cas (à venir)
+* IV. Quicksort et analyse de son temps d'execution
+
+### Cours 05 - Diviser pour régner
+* I. Retour sur les cas des tris (fusion et quicksort)
+* II. Autres algorithmes
 
 
 This work is licensed under a
