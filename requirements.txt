@@ -18,3 +18,4 @@ ipyturtle
 networkx
 graphviz
 jupyter-tabnine
+pydot
