@@ -22,6 +22,7 @@ jupyter bundlerextension enable --py jupyter_docx_bundler --sys-prefix
 jupyter nbextension install --py jupyter-tabnine
 jupyter nbextension enable --py jupyter_tabnine
 jupyter serverextension enable --py jupyter_tabnine
+jupyter serverextension enable nbgitpuller --sys-prefix
 
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
