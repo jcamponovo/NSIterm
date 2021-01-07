@@ -23,6 +23,7 @@ jupyter nbextension install --py jupyter-tabnine
 jupyter nbextension enable --py jupyter_tabnine
 jupyter serverextension enable --py jupyter_tabnine
 jupyter serverextension enable nbgitpuller --sys-prefix
+jupyter nbextension enable --py --sys-prefix ipyevents
 
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
