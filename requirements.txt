@@ -8,8 +8,7 @@ image
 ipyvuetify
 bqplot
 panda
-voila
-voila-vuetify
+
 nbconvert
 rise
 jupyter-docx-bundler
@@ -20,4 +19,10 @@ graphviz
 jupyter-tabnine
 pydot
 nbgitpuller
+
+notebook<6.0
+ipython<7.0
+prompt-toolkit<2.0
+ipywidgets>7.0
 ipyevents
+scikit-learn
