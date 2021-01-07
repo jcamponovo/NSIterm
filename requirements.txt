@@ -20,3 +20,4 @@ graphviz
 jupyter-tabnine
 pydot
 nbgitpuller
+ipyevents
