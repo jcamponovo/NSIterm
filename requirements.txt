@@ -19,6 +19,7 @@ graphviz
 jupyter-tabnine
 pydot
 nbgitpuller
+pixiedust
 
 notebook<6.0
 ipython<7.0
