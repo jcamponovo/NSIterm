@@ -58,6 +58,12 @@
 * II. Notions générales sur les arbres
 * III. Arbres binaires
 
+### Cours 07 - Tests unitaires
+* I. Importer un module
+* II. Ecrire un module
+* III. Tester un module -tests unitaires-
+* IV. Principe du Test driven development
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
