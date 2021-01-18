@@ -64,6 +64,12 @@
 * III. Tester un module -tests unitaires-
 * IV. Principe du Test driven development
 
+### Cours 08 - Bases de données
+* I. Base de données
+    * TD_08_1 - Etablir des schémas relationnels
+* II. Système de gestion de base de données (SGBD)
+    * TD_08_2 - Le langage SQL 
+
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
