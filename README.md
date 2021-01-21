@@ -69,6 +69,7 @@
     * TD_08_1 - Etablir des schémas relationnels
 * II. Système de gestion de base de données (SGBD)
     * TD_08_2 - Le langage SQL 
+    * TD_08_3 - Requetes simples et jointures
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
