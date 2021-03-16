@@ -53,7 +53,7 @@
 * I. Retour sur les cas des tris (fusion et quicksort)
 * II. Autres algorithmes
 
-### Cours 06 - Les arbres
+### Cours 06 - Les Arbres
 * I. Introduction
 * II. Notions générales sur les arbres
 * III. Arbres binaires
@@ -72,6 +72,15 @@
     * TD_08_3 - Le langage SQL 2/2
 * III. Créer une base de données
     * TD_08_4 - Entrainement SQL
+
+### Cours 09 - Petite pause
+* Sensibilisation à l'intelligence artificielle
+* Compression de données et code correcteur d'erreur
+
+### Cours 10 - Les Graphes
+* I - Introduction et définitions
+    * TD_10_1 - Représentation d'un graphe
+    * TD_10_2 - Parcours de graphe
 
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
