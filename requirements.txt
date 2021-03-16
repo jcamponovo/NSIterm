@@ -16,6 +16,7 @@ chardet
 ipyturtle
 networkx
 graphviz
+pygraphviz
 jupyter-tabnine
 pydot
 nbgitpuller
