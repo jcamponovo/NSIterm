@@ -2,6 +2,7 @@ nano
 traceroute
 iputils-ping
 net-tools
+man-db
 dnsutils
 pandoc
 texlive-xetex
