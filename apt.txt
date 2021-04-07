@@ -1,5 +1,8 @@
 nano
 traceroute
+iputils-ping
+net-tools
+dnsutils
 pandoc
 texlive-xetex
 texlive-fonts-recommended
