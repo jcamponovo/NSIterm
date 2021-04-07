@@ -3,6 +3,7 @@ traceroute
 iputils-ping
 net-tools
 man-db
+tree
 dnsutils
 pandoc
 texlive-xetex
